@@ -1,0 +1,48 @@
+In Time
+
+In Floor
+
+Out Time
+
+Out Floor
+
+Time Spent(HH:MM)
+
+          
+05-Oct-2017 12:10
+POLY 6F IDC Door Entry
+05-Oct-2017 13:29
+POLY 6F IDC Door Exit
+01:18
+05-Oct-2017 13:29
+POLY 6F OPS Passage Door Entry
+05-Oct-2017 13:30
+POLY 6F Fire Exit Door Exit
+00:00
+05-Oct-2017 13:30
+POLY 5F Fire Exit Door Entry
+05-Oct-2017 14:05
+POLY 5F Fire Exit Door Exit
+00:34
+05-Oct-2017 14:05
+POLY 6F Fire Exit Door Entry
+05-Oct-2017 14:07
+POLY 6F OPS Passage Door  Exit
+00:01
+05-Oct-2017 14:07
+POLY 6F IDC Door Entry
+05-Oct-2017 15:26
+POLY 6F IDC Door Exit
+01:18
+05-Oct-2017 15:26
+POLY 6F OPS Passage Door Entry
+05-Oct-2017 15:30
+POLY 6F OPS Passage Door  Exit
+00:03
+05-Oct-2017 15:30
+POLY 6F IDC Door Entry
+-
+     
+
+20
+Records per page:1Records: 1 - 7 of 7 - Pages: 
